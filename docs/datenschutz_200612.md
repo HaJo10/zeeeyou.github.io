@@ -16,7 +16,7 @@ Test registrieren (siehe Ziffer 6 b.)
 
 Testergebnis teilen (siehe Ziffer 6 c.) Die Datenverarbeitung im Rahmen dieser Funktionen wird in den folgenden Abschnitten näher beschrieben.  
 
-### 3 Auf welcher Rechtsgrundlage werden Ihre Datenverarbeitet?  
+### 3 Auf welcher Rechtsgrundlage werden Ihre Daten verarbeitet?  
 
 Das RKI verarbeitet Ihre personenbezogenen Daten grundsätzlich nur auf Grundlage einer von Ihnen erteilten Einwilligung nach Artikel 6 Absatz 1 Satz 1 Buchstabe a und Artikel 9 Absatz 2 Buchstabe a der Datenschutzgrundverordnung (DSGVO). Sie können eine von Ihnen  
 
