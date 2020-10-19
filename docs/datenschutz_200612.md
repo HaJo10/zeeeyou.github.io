@@ -1,10 +1,10 @@
 ## Datenschutzerklärung zeeeyou 
 
-In dieser Datenschutzerklärung erfahren Sie, welche Daten bei der Nutzung der zeeeyou-App erhoben werden, wie sie verwendet werden und welche Datenschutzrechte Sie haben.Damit diese Datenschutzerklärung für alle Nutzer verständlich ist, bemühen wir uns um eine einfache und möglichst untechnische Darstellung.  
+In dieser Datenschutzerklärung erfahren Sie, welche Daten bei der Nutzung der **zeeeyou-App** erhoben werden, wie sie verwendet werden und welche Datenschutzrechte Sie haben.Damit diese Datenschutzerklärung für alle Nutzer verständlich ist, bemühen wir uns um eine einfache und möglichst untechnische Darstellung.  
 
 ### 1 Wer stellt Ihnen diese App zur Verfügung?  
 
-Der Anbieter der zeeeyou-App (im Folgenden die „App“) ist zeeeyou GbR, Vor Eichen 11, 72406 Bisingen (im Folgenden „zeeeyou“).zeeeyou ist auch der datenschutzrechtlich Verantwortliche für die Verarbeitung von personenbezogenen Daten der App-Nutzer.  
+Der Anbieter der **zeeeyou-App** (im Folgenden die „App“) ist zeeeyou GbR, Vor Eichen 11, 72406 Bisingen (im Folgenden „zeeeyou“).**zeeeyou** ist auch der datenschutzrechtlich Verantwortliche für die Verarbeitung von personenbezogenen Daten der App-Nutzer.  
 
 Den Datenschutzbeauftragten von zeeeyou erreichen Sie unter der oben genannten Anschrift (zu Händen „Behördlicher Datenschutzbeauftragter“) und per E-Mail an: datenschutz@zeeeyou.de).  
 
@@ -16,7 +16,7 @@ Test registrieren (siehe Ziffer 6 b.)
 
 Testergebnis teilen (siehe Ziffer 6 c.) Die Datenverarbeitung im Rahmen dieser Funktionen wird in den folgenden Abschnitten näher beschrieben.  
 
-### 3 Auf welcher Rechtsgrundlage werden Ihre Daten verarbeitet?  
+### 3 Auf welcher Rechtsgrundlage werden Ihre Datenverarbeitet?  
 
 Das RKI verarbeitet Ihre personenbezogenen Daten grundsätzlich nur auf Grundlage einer von Ihnen erteilten Einwilligung nach Artikel 6 Absatz 1 Satz 1 Buchstabe a und Artikel 9 Absatz 2 Buchstabe a der Datenschutzgrundverordnung (DSGVO). Sie können eine von Ihnen  
 
@@ -92,13 +92,19 @@ Soweit Sie die App nur informatorisch nutzen, also keine der oben genannten Funk
 
 Die App benötigt Zugriff auf verschiedene Funktionen und Schnittstellen Ihres Smartphones. Dazu ist es erforderlich, dass Sie der App bestimmte Berechtigungen erteilen. Die Berechtigungen sind von den verschiedenen Herstellern unterschiedlich programmiert. So können z. B. Einzelberechtigungen zu Berechtigungskategorien zusammengefasst sein, wobei Sie der Berechtigungskategorie nur insgesamt zustimmen können. Bitte beachten Sie, dass Sie im Falle der Ablehnung eines Zugriffs durch die App keine oder nur wenige Funktionen der App nutzen können.  
 
+Berechtigungen im Einzelnen:
+
+.Kontakte
+.Nachrichten
+ .wird teils automatisch erteilt
+  . Ton muss/kann in den Einstellungen zur App detailliert eingestellt werden  
+
+
 a. Technische Voraussetzungen (alle Smartphones)  
 
 • Internet  
 
-Die App benötigt für die Funktionen Risiko-Ermittlung, Testergebnisse erhalten und Testergebnis übermitteln eine Internetverbindung, um mit den Serversystemen der App kommunizieren zu können.  
-
-Bluetooth Die Bluetooth-Schnittstelle Ihres Smartphones muss aktiviert sein, damit Ihr Smartphone Zufalls-IDs von anderen Smartphones erfassen und im Kontaktprotokoll des Geräts speichern kann.  
+Die App benötigt für die Funktionen Risiko-Ermittlung, Testergebnisse erhalten und Testergebnis übermitteln eine Internetverbindung, um mit den Serversystemen der App kommunizieren zu können.   
 
 Hintergrundbetrieb Die App nutzt den Hintergrundbetrieb (also wenn Sie die App nicht gerade aktiv nutzen), um Ihr Risiko automatisch zu ermitteln und den Status eines registrierten Tests abfragen zu können. Wenn Sie den Hintergrundbetrieb im Betriebssystem Ihres Smartphones deaktivieren, müssen Sie alle Aktionen in der App selbst starten.  
 
