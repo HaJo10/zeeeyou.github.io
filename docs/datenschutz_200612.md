@@ -4,9 +4,9 @@ In dieser Datenschutzerklärung erfahren Sie, welche Daten bei der Nutzung der *
 
 ### 1 Wer stellt Ihnen diese App zur Verfügung?  
 
-Der Anbieter der **zeeeyou-App** (im Folgenden die „App“) ist zeeeyou GbR, Vor Eichen 11, 72406 Bisingen (im Folgenden „zeeeyou“).**zeeeyou** ist auch der datenschutzrechtlich Verantwortliche für die Verarbeitung von personenbezogenen Daten der App-Nutzer.  
+Der Anbieter der **zeeeyou-App** (im Folgenden die „App“) ist zeeeyou GbR, Vor Eichen 11, 72406 Bisingen (im Folgenden „**zeeeyou**“). **zeeeyou** ist auch der datenschutzrechtlich Verantwortliche für die Verarbeitung von personenbezogenen Daten der App-Nutzer.  
 
-Den Datenschutzbeauftragten von zeeeyou erreichen Sie unter der oben genannten Anschrift (zu Händen „Behördlicher Datenschutzbeauftragter“) und per E-Mail an: datenschutz@zeeeyou.de).  
+Den Datenschutzbeauftragten von **zeeeyou** erreichen Sie unter der oben genannten Anschrift (zu Händen „Behördlicher Datenschutzbeauftragter“) und per E-Mail an: datenschutz@zeeeyou.de).  
 
 ### 2 Ist die Nutzung der App freiwillig?  
 
@@ -94,10 +94,10 @@ Die App benötigt Zugriff auf verschiedene Funktionen und Schnittstellen Ihres S
 
 Berechtigungen im Einzelnen:
 
-.Kontakte
-.Nachrichten
- .wird teils automatisch erteilt
-  . Ton muss/kann in den Einstellungen zur App detailliert eingestellt werden  
+* Kontakte
+* Nachrichten
+  * wird teils automatisch erteilt
+   * Ton muss/kann in den Einstellungen zur App detailliert eingestellt werden  
 
 
 a. Technische Voraussetzungen (alle Smartphones)  
