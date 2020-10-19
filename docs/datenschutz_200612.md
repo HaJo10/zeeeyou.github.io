@@ -95,9 +95,12 @@ Die App benötigt Zugriff auf verschiedene Funktionen und Schnittstellen Ihres S
 Berechtigungen im Einzelnen:
 
 * Kontakte
+  * auslesen der Namen zu genehmigten **zeeeyou**-Kontakten
 * Nachrichten
   * wird teils automatisch erteilt
-   * Ton muss/kann in den Einstellungen zur App detailliert eingestellt werden  
+  * Ton muss/kann in den Einstellungen zur App detailliert eingestellt werden
+  * Benachrichtigung bei Eintreffen von Terminen
+  * Benachrichtigung bei Fälligkeit von Terminen
 
 
 a. Technische Voraussetzungen (alle Smartphones)  
