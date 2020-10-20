@@ -86,7 +86,7 @@ Die Registrierung Ihres Tests ist damit abgeschlossen.Hinterlegung des Testergeb
 
 d. Informatorische Nutzung der App  
 
-Soweit Sie die App nur informatorisch nutzen, also keine der oben genannten Funktionen der App verwenden und keine Daten eingeben, findet die Verarbeitung ausschließlich lokal auf Ihrem Smartphone statt und es fallen keine personenbezogenen Daten an. In der App verlinkte Webseiten z.B.: www.bundesregierung.de werden im Standard-Browser Ihres Smartphones geöffnet und angezeigt. Welche Daten dabei verarbeitet werden hängt von dem genutzten Browser, dessen Konfiguration sowie der Datenverarbeitungspraxis der aufgerufenen Webseite ab.  
+Soweit Sie die App nur informatorisch nutzen, also keine der oben genannten Funktionen der App verwenden und keine Daten eingeben, findet die Verarbeitung ausschließlich lokal auf Ihrem Smartphone statt und es fallen keine personenbezogenen Daten an. In der App verlinkte Webseiten z.B.: diese *Datenschutzerklärung* oder die *Nutzungsbedingungen* werden im Standard-Browser Ihres Smartphones geöffnet und angezeigt. Welche Daten dabei verarbeitet werden hängt von dem genutzten Browser, dessen Konfiguration sowie der Datenverarbeitungspraxis der aufgerufenen Webseite ab.  
 
 ### 7 Welche Berechtigungen und Funktionen benötigt dieApp?  
 
