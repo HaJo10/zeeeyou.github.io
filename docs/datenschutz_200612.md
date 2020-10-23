@@ -30,8 +30,7 @@ Die App richtet sich an Personen, die sich in Deutschland aufhalten und mindeste
 
 Die App ist so konzipiert, dass so wenig personenbezogene Daten wie möglich verarbeitet werden. Das bedeutet zum Beispiel, dass die App keine Daten erfasst, die es dem **zeeeyou** oder anderen Nutzern ermöglichen, auf Ihre Identität, Ihren Gesundheitsstatus oder Ihren Standort zu schließen. Zudem verzichtet die App bewusst auf jegliche Erfassung oder Analyse Ihres Nutzungsverhaltens durch Tracking-Tools.  
 
-Email-Adresse
-Telefonnummer (mobil)
+### *Email-Adresse + Telefonnummer* (mobil)
 > Email-Adresse + Telefonnummer werden zur Registrierung verwendet
 >> es gilt
 >> ein Benutzerkonto pro Email-Adresse
@@ -41,11 +40,10 @@ Telefonnummer (mobil)
 >> mit der Telefonnummer wird der Name zu einem **zeeeyou**-Kontakt aus den Telefonkontakten des Nutzers (Empfänger) ausgelesen
 
 
-Geräte-Id
-Geräte-Name
+### *Geräte-Id + Geräte-Name*
 > werden benutzt um festzustellen und anzuzeigen wenn der Nutzer sich auf einem anderen Gerät angemeldet hat
 
-PushToken
+### *PushToken*
 > wird bei der Installation der App von dieser gebildet um eine Geräteadresse für die Versendung von PushNotifications zu haben.
 >> Hinweis für empfangene Kontaktanfrage
 
