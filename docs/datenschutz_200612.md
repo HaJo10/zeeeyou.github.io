@@ -30,6 +30,27 @@ Die App richtet sich an Personen, die sich in Deutschland aufhalten und mindeste
 
 Die App ist so konzipiert, dass so wenig personenbezogene Daten wie möglich verarbeitet werden. Das bedeutet zum Beispiel, dass die App keine Daten erfasst, die es dem **zeeeyou** oder anderen Nutzern ermöglichen, auf Ihre Identität, Ihren Gesundheitsstatus oder Ihren Standort zu schließen. Zudem verzichtet die App bewusst auf jegliche Erfassung oder Analyse Ihres Nutzungsverhaltens durch Tracking-Tools.  
 
+Email-Adresse
+Telefonnummer (mobil)
+> Email-Adresse + Telefonnummer werden zur Registrierung verwendet
+>> es gilt
+>> ein Benutzerkonto pro Email-Adresse
+
+>> eine Telefonnummer kann nur einer Email-Adresse zugeordnet werden
+
+>> mit der Telefonnummer wird der Name zu einem **zeeeyou**-Kontakt aus den Telefonkontakten des Nutzers (Empfänger) ausgelesen
+
+
+Geräte-Id
+Geräte-Name
+> werden benutzt um festzustellen und anzuzeigen wenn der Nutzer sich auf einem anderen Gerät angemeldet hat
+
+PushToken
+> wird bei der Installation der App von dieser gebildet um eine Geräteadresse für die Versendung von PushNotifications zu haben.
+>> Hinweis für empfangene Kontaktanfrage
+
+>> Hinweis für empfangenen Termin
+
 Die von der App verarbeiteten Daten lassen sich den folgenden Kategorien zuordnen:  
 
 a. Zugriffsdaten  
@@ -139,23 +160,8 @@ Die gehashte Kennzahl und das Testergebnis in der Testergebnis- Datenbank werden
 
 Das Token, das auf dem Serversystem gespeichert ist, wird nach 21 Tagen gelöscht.  
 
-Das Token, das in der App gespeichert ist, wird nach Löschung der App vom Smartphone oder nach Ausführung der Funktion „Testergebnis teilen“ gelöscht. c. Testergebnis teilen  
-
-Die in der App geteilten eigenen Zufalls-IDs werden nach 14 Tagen vom Serversystem gelöscht.  
-
-Die Kopie der TAN, die auf dem Serversystem gespeichert ist, wird nach 21 Tagen gelöscht.  
-
-Die TAN, die in der App gespeichert ist, wird nach Teilen des Testergebnisses gelöscht.  
-
-Die TeleTAN, die in der App gespeichert ist, wird nach Teilen des Testergebnisses gelöscht.  
-
-Die TeleTAN, die auf dem Serversystem gespeichert ist, wird nach 21 Tagen gelöscht.  
-
-Die TeleTAN, die dem Mitarbeiter der Hotline übermittelt wird, wird dort direkt nach der telefonischen Weitergabe an Sie gelöscht.  
-
-Das Token, das auf dem Serversystem gespeichert ist, wird nach 21 Tagen gelöscht.  
-
-Das Token, das in der App gespeichert ist, wird nach Teilen des Testergebnisses gelöscht.  
+Das Token, das in der App gespeichert ist, wird nach Löschung der App vom Smartphone oder nach Ausführung der Funktion „Testergebnis teilen“ gelöscht. c. Testergebnis teilen  ...
+  
 
 ### 9 An wen werden Ihre Daten weitergegeben?  
 
