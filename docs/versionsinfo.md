@@ -1,12 +1,14 @@
-### Version 0.5.3.2
+### Version 0.5.3.0.3 freigegeben 02.11.20
 --- 
 - Versionsinfo aus 'versionsinfo' ohne Versionsnummer laden. Historie anders lösen. Gibt zu viele Dokumente im Storage.
+- change Mailadr noch unvollständig
+
 ***
-### Version 0.5.3.1
+### Version 0.5.3.0.2 freigegeben 02.11.20
 --- 
 - Meldung "zu viele Empfänger" in iOS wieder ok
-- Sprache bei Datum/Uhrzeit vom device
 - change Mailadr noch unvollständig
+
 ***
 ### Version 0.5.3 freigegeben 29.10.20
 --- 
