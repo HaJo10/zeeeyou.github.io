@@ -1,8 +1,13 @@
+### Version 0.5.3.4 freigegeben 03.11.20
+--- 
+- Status 'gelesen' wird auch bei longpress gesetzt (wenn kein neuer Termin erstellt wird)
+***
 ### Version 0.5.3.3 freigegeben 03.11.20
 --- 
 - Meldung "zu viele Empfänger" in iOS wieder ok
 - Problem: unter iOS < 13.7 keine Reaktion auf press/longpress auf Termin in Liste
-- Versionsinfo aus 'versionsinfo' ohne Versionsnummer laden. Historie anders lösen. Gibt zu viele Dokumente im Storage.
+- Trennung zwischen Terminen in Liste leicht verstärkt
+- Versionsinfo aus 'versionsinfo' ohne Versionsnummer == letzter Stand laden. Historie anders lösen. Gibt zu viele Dokumente im Storage.
 
 - change Mailadr noch unvollständig
 
