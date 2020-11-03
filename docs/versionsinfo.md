@@ -1,12 +1,9 @@
-### Version 0.5.3.0.3 freigegeben 02.11.20
---- 
-- Versionsinfo aus 'versionsinfo' ohne Versionsnummer laden. Historie anders lösen. Gibt zu viele Dokumente im Storage.
-- change Mailadr noch unvollständig
-
-***
-### Version 0.5.3.0.2 freigegeben 02.11.20
+### Version 0.5.3.3 freigegeben 03.11.20
 --- 
 - Meldung "zu viele Empfänger" in iOS wieder ok
+- Problem: unter iOS < 13.7 keine Reaktion auf press/longpress auf Termin in Liste
+- Versionsinfo aus 'versionsinfo' ohne Versionsnummer laden. Historie anders lösen. Gibt zu viele Dokumente im Storage.
+
 - change Mailadr noch unvollständig
 
 ***
