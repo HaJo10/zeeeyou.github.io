@@ -1,10 +1,12 @@
 ### Version 0.5.3.5 freigegeben 06.11.20
 --- 
 - Terminliste im neuen Layout (erste Annäherung)
+
 ***
 ### Version 0.5.3.4 freigegeben 03.11.20
 --- 
 - Status 'gelesen' wird auch bei longpress gesetzt (wenn kein neuer Termin erstellt wird)
+
 ***
 ### Version 0.5.3.3 freigegeben 03.11.20
 --- 
