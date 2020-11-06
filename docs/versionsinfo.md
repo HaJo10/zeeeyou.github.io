@@ -1,3 +1,11 @@
+### Version 0.5.3.5.2 freigegeben 06.11.20
+---
+Einstellungen Buttons
+- Texte anstatt Icons
+- Farbe
+- Breite
+
+***
 ### Version 0.5.3.5.1 freigegeben 06.11.20
 --- 
 - Tabs im neuen Layout
