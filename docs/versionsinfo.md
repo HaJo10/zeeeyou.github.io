@@ -1,3 +1,8 @@
+### Version 0.5.3.5.3 freigegeben 07.11.20
+---
+- Einstellungen im neuen Layout
+
+***
 ### Version 0.5.3.5.2 freigegeben 06.11.20
 ---
 Einstellungen Buttons
