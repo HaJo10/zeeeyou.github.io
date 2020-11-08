@@ -1,4 +1,4 @@
-### Version 0.5.3.5.3.1 freigegeben 08.11.20
+### Version 0.5.3.5.3.3 freigegeben 08.11.20
 ---
 - übersetzen Datum entsprechend Gerätesprache
 - "Uhr" wieder rausgenommen da sonst bei z.B. italienisch, polnisch ... "o'clock" stehen würde
