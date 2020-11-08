@@ -1,3 +1,11 @@
+### Version 0.5.3.5.3.1 freigegeben 08.11.20
+---
+- übersetzen Datum entsprechend Gerätesprache
+- "Uhr" wieder rausgenommen da sonst bei z.B. italienisch, polnisch ... "o'clock" stehen würde
+
+> Version steht parallel unter zeeeyouExpo_Test zur Verfügung
+
+***
 ### Version 0.5.3.5.3 freigegeben 07.11.20
 ---
 - Einstellungen im neuen Layout
