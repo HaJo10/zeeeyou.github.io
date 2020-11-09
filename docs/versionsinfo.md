@@ -1,3 +1,12 @@
+### Version 0.5.3.5.3.4 freigegeben 09.11.20
+---
+- Tastenbreite abhängig von Devicebreite 
+> bis iPhone SE (375 Pixel) 90 %
+> darüber 60%
+>> Breite wird testweise unter Version angezeigt
+
+
+***
 ### Version 0.5.3.5.3.3 freigegeben 08.11.20
 ---
 - übersetzen Datum entsprechend Gerätesprache
