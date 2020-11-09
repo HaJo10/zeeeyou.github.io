@@ -1,3 +1,8 @@
+### Version 0.5.3.5.3.5 freigegeben 09.11.20
+---
+- Eingabefenster für Termintext bei kleiner Device-Höhe verringert
+
+***
 ### Version 0.5.3.5.3.4 freigegeben 09.11.20
 ---
 - Tastenbreite abhängig von Devicebreite 
@@ -6,7 +11,7 @@
 >> Breite wird testweise unter Version angezeigt
 >> unter zeeeyouExpo_Test
 - Terminliste: 'longpress' entfällt, alles über 'press' = einfaches antippen
-
+> Version unter zeeeyouExpo_Test 
 
 ***
 ### Version 0.5.3.5.3.3 freigegeben 08.11.20
