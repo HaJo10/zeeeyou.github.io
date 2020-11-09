@@ -5,6 +5,7 @@
 > darüber 60%
 >> Breite wird testweise unter Version angezeigt
 >> unter zeeeyouExpo_Test
+- Terminliste: 'longpress' entfällt, alles über 'press' = einfaches antippen
 
 
 ***
