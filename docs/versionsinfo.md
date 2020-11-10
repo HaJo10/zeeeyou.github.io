@@ -1,4 +1,9 @@
-### Version 0.5.3.5.3.5 freigegeben 09.11.20
+### Version 0.5.3.5.3.7 freigegeben 10.11.20
+---
+- testweise zeeeyou Logo in PROFIL eingeblendet zwecks Farbkontrolle
+
+***
+### Version 0.5.3.5.3.6 freigegeben 10.11.20
 ---
 - Terminliste Farben lt. Vorgabe Michael
 - dritter Tab dito
