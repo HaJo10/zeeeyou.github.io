@@ -1,5 +1,13 @@
 ### Version 0.5.3.5.3.5 freigegeben 09.11.20
 ---
+- Terminliste Farben lt. Vorgabe Michael
+- dritter Tab dito
+- Neu + Kontakte/Gruppen noch offen
+- testweise 2-zeilige Anzeige
+
+***
+### Version 0.5.3.5.3.5 freigegeben 09.11.20
+---
 - Eingabefenster für Termintext bei kleiner Device-Höhe verringert
 
 ***
