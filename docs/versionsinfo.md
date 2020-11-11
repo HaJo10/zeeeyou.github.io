@@ -1,3 +1,8 @@
+### Version 0.5.3.5.3.8 freigegeben 11.11.20
+---
+- Farben Datum/Uhrzeit modifiziert
+
+***
 ### Version 0.5.3.5.3.7 freigegeben 10.11.20
 ---
 - testweise zeeeyou Logo in PROFIL eingeblendet zwecks Farbkontrolle
