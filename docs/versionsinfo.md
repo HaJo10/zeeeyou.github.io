@@ -1,3 +1,11 @@
+### Version 0.5.3.5.4. freigegeben 11.11.20
+---
+- Farben nachjustiert:
+> Background ungelesen  #e6e6e6
+> Schrift akt/kommend   #d3d3d3
+> Schrift vergangen     #d3d3d3
+
+***
 ### Version 0.5.3.5.4.1 freigegeben 11.11.20
 ---
 - Farben nach neuer Spezifikation (Terminliste)
