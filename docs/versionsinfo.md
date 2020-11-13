@@ -1,4 +1,10 @@
-### Version 0.5.3.5.4. freigegeben 11.11.20
+### Version 0.5.3.5.5 freigegeben 13.11.20
+---
+- Terminliste entsprechend Meeting 12.11.20
+- Kennzeichnung Neu + Storno
+
+***
+### Version 0.5.3.5.4.2 freigegeben 11.11.20
 ---
 - Farben nachjustiert:
 > Background ungelesen  #e6e6e6
