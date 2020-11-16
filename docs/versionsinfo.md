@@ -1,3 +1,8 @@
+### Version 0.5.3.5.6.1 freigegeben 16.11.20
+---
+- Kontakte/Anfragen löschen bzw. annehmen wieder ok
+
+***
 ### Version 0.5.3.5.6 freigegeben 16.11.20
 ---
 - Kontakte/Gruppen 
