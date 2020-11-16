@@ -1,3 +1,10 @@
+### Version 0.5.3.5.6 freigegeben 16.11.20
+---
+- Kontakte/Gruppen 
+- - neues Layout
+- - Anfragen und Kontakte zusammengefasst
+
+***
 ### Version 0.5.3.5.5 freigegeben 13.11.20
 ---
 - Terminliste entsprechend Meeting 12.11.20
