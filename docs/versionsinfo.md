@@ -1,3 +1,10 @@
+### Version 0.5.3.5.6.2 freigegeben 17.11.20
+---
+- Kontakte, neuer Kontakt auch ohne vorheriger Suche in Kontakten
+
+> unter zeeeyouExpo_Test zum Vergleich
+
+***
 ### Version 0.5.3.5.6.1 freigegeben 16.11.20
 ---
 - Kontakte/Anfragen löschen bzw. annehmen wieder ok
