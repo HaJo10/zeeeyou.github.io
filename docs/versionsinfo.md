@@ -1,3 +1,8 @@
+### Version 0.5.3.5.6.4 freigegeben 19.11.20
+---
+- Steuerung Anzeige vergangen/aktuell/kommend nachgeschärft
+
+***
 ### Version 0.5.3.5.6.3 freigegeben 17.11.20
 ---
 - 'rot' an restlichen Stellen -> zeeeyou-Rot
