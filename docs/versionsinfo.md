@@ -1,3 +1,12 @@
+### Version 0.5.3.5.7 freigegeben 
+---
+- aktuelle Uhrzeit heller (deswegen Datum ebenfalls)
+- - Datum (zeeeyou-rot) #e63d00
+- - Uhrzeit             #c00000
+- Gruppe anlegen: Vorbelegung mit Empfängern des zuletzt angezeigten Termins (+) behoben
+- Kontakte/Gruppen: Suchfeld scrollt nicht mehr mit
+
+***
 ### Version 0.5.3.5.6.4 freigegeben 19.11.20
 ---
 - Steuerung Anzeige vergangen/aktuell/kommend nachgeschärft
