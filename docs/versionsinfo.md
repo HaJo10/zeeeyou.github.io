@@ -1,4 +1,9 @@
-### Version 0.5.3.5.7 freigegeben 
+### Version 0.5.3.5.7.1 freigegeben 23.11.20
+---
+- '< Back' ausgeblendet bei Empfängerauswahl, da hier ohne Funktion
+
+***
+### Version 0.5.3.5.7 freigegeben 21.11.20
 ---
 - aktuelle Uhrzeit heller (deswegen Datum ebenfalls)
 - - Datum (zeeeyou-rot) #e63d00
