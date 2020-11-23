@@ -1,3 +1,8 @@
+### Version 0.5.3.5.7.2 freigegeben 23.11.20
+---
+- Kontakte/Gruppen Umschaltung auch durch Klick auf Textfeld
+
+***
 ### Version 0.5.3.5.7.1 freigegeben 23.11.20
 ---
 - '< Back' ausgeblendet bei Empfängerauswahl, da hier ohne Funktion
