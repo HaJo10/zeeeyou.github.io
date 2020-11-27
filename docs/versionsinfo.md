@@ -1,3 +1,13 @@
+### Version 0.5.3.5.8 freigegeben 27.11.20
+---
+- Terminliste
+- - aktueller Termin Datum/Uhrzeit Schrift weiss
+- - Text grau (#666666)
+- - Datum/Uhrzeit Zwischenräume zw DD MM YY und HH MM enger
+- 'Neu' (+) Buttons mit Rand rechts
+- bei grossen Geräten (z.B. Tablets) Nutzbreite beschränkt damit Darstellung in etwa erhalten bleibt
+
+***
 ### Version 0.5.3.5.7.2 freigegeben 23.11.20
 ---
 - Kontakte/Gruppen Umschaltung auch durch Klick auf Textfeld
