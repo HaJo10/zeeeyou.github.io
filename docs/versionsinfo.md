@@ -1,3 +1,33 @@
+### Version 0.5.3.5.8.4 freigegeben 01.12.20
+---
+- im Querformat und bei breiten Geräten
+- - Tabs zentriert, Breite 400
+- - Restbereich li/re leicht grau
+> zeeeyouExpo_zentS
+
+***
+### Version 0.5.3.5.8.3 freigegeben 28.11.20
+---
+- im Querformat und bei breiten Geräten
+- - Tabs zentriert, Breite 400
+> zeeeyouExpo_zent
+
+***
+### Version 0.5.3.5.8.2 freigegeben 28.11.20
+---
+- im Querformat und bei breiten Geräten
+- - Tabs über volle Breite
+> zeeeyouExpo_mitte
+
+***
+### Version 0.5.3.5.8.1 freigegeben 28.11.20
+---
+- im Querformat und bei breiten Geräten
+- - Tabs  nicht über gesamte Breite
+- - Screens einheitlich links 
+> zeeeyouExpo_li
+
+***
 ### Version 0.5.3.5.8 freigegeben 27.11.20
 ---
 - Terminliste
