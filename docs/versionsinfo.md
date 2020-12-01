@@ -3,6 +3,8 @@
 - im Querformat und bei breiten Geräten
 - - Tabs zentriert, Breite 400
 - - Restbereich li/re leicht grau
+
+- 'Neu': Layout angepasst (Tastenfarbe, Icons)
 > zeeeyouExpo_zentS
 
 ***
