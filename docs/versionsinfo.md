@@ -1,3 +1,12 @@
+### Version 0.5.3.5.8.5 freigegeben 11.12.20
+---
+- Tabs bei Breite > 400 auf 400 und zentriert
+- Tabs mit Trennstrich
+- Tabs Schönheitsfehler: auf Geräten mit Orientierung 'Hochformat' im Querformat Tabs leicht schmaler als zeeeyou-Screen
+- Storno: Markierung durch Punkt (rot) statt Daumen
+- Stornofolge: Trennstrich eingefügt zwischen Terminen
+
+***
 ### Version 0.5.3.5.8.4 freigegeben 01.12.20
 ---
 - im Querformat und bei breiten Geräten
