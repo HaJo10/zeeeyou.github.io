@@ -1,3 +1,14 @@
+### Version 0.5.3.5.8.6 freigegeben 15.12.20
+---
+- alle von Breite/Höhe abhängigen Werte werden dynamisch aktualisiert bei Drehung des Gerätes
+- in der 'Normal'-Ausrichtung der Geräte sollte alles wie gewollt aussehen und funktionieren
+>'Normal'-Ausrichtung
+> - < 11" Hochformat (portrait)
+> - ab 11" Querformat (landscape)
+- entsprechend werden die Auflösungen angegeben
+- nicht bzw schlechte Bedienbarkeit im Querformat bei kleinen Diagonalen liegt im Ermessen des Nutzers ????
+
+***
 ### Version 0.5.3.5.8.5 freigegeben 11.12.20
 ---
 - Tabs bei Breite > 400 auf 400 und zentriert
