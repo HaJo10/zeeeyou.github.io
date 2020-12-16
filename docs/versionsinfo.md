@@ -1,3 +1,8 @@
+### Version 0.5.4.0.4 freigegeben 16.12.20
+---
+- Abbruch bei StornoFolge behoben
+
+***
 ### Version 0.5.4.0.3 freigegeben 16.12.20
 ---
 > Expo SDK 40
