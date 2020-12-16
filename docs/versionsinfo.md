@@ -1,3 +1,9 @@
+### Version 0.5.4.0.3 freigegeben 16.12.20
+---
+> Expo SDK 40
+- 'Neu' / 'Storno' 
+
+***
 ### Version 0.5.3.5.8.6 freigegeben 15.12.20
 ---
 - alle von Breite/Höhe abhängigen Werte werden dynamisch aktualisiert bei Drehung des Gerätes
