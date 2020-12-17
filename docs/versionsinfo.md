@@ -1,3 +1,9 @@
+### Version 0.5.4.0.6 freigegeben 17.12.20
+---
+- Storniert+gelesen -> wie vergangen
+- Login: Email Leerzeichen rausfiltern
+
+***
 ### Version 0.5.4.0.5 freigegeben 16.12.20
 ---
 - Abbruch bei StornoFolge behoben
