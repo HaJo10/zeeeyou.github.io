@@ -2,6 +2,7 @@
 ---
 - Storno-Folge: Icon 'ausgehend' angepasst
 - Vorbelegung Empfänger bei Detail/Änderung repariert
+> VORBELEGUNG FUNKTIONIERT NICHT BEI BESTEHENDEN TERMINEN !!!
 
 ***
 ### Version 0.5.4.0.6 freigegeben 17.12.20
