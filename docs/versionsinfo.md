@@ -1,3 +1,9 @@
+### Version 0.5.4.0.7 freigegeben 21.12.20
+---
+- Storno-Folge: Icon 'ausgehend' angepasst
+- Vorbelegung Empfänger bei Detail/Änderung repariert
+
+***
 ### Version 0.5.4.0.6 freigegeben 17.12.20
 ---
 - Storniert+gelesen -> wie vergangen
