@@ -1,9 +1,17 @@
+### Version 0.5.4.0.10 freigegeben ...
+---
+- Registrierung: Telnr bei Abruf Bestätigungscode vorbelegt
+- Telnr-Änderung: Update Telnr in offenen Requests
+- Gerätewechsel: Update Token für Notifications in offenen Requests
+- Kontakte: Sortierung
+
+***
 ### Version 0.5.4.0.8 freigegeben 21.12.20
 ---
 - Storno-Folge: Icon 'ausgehend' angepasst
 - Vorbelegung Empfänger bei Detail/Änderung repariert
 > VORBELEGUNG FUNKTIONIERT NICHT BEI BESTEHENDEN TERMINEN !!!
-- Korrektur bei Registrierung, Tel-Nr nur noch im Account gespeichert
+- ~~Korrektur bei Registrierung, Tel-Nr nur noch im Account gespeichert~~
 
 ***
 ### Version 0.5.4.0.6 freigegeben 17.12.20
