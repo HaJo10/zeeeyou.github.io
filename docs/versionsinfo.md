@@ -1,3 +1,9 @@
+### Version 0.5.4.0.11 freigegeben 15.01.21
+---
+- autodelete storno wenn gesehen
+- Storno-Folgetermine letzter Termin zuerst
+
+***
 ### Version 0.5.4.0.10 freigegeben 15.01.21
 ---
 - Registrierung: Telnr bei Abruf Bestätigungscode vorbelegt
