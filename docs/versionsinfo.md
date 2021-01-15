@@ -1,3 +1,8 @@
+### Version 0.5.4.0.12 freigegeben 15.01.21
+---
+- Neuer Termin: iOS 14 wieder alte Datum-/Uhrzeit-Eingabe
+
+***
 ### Version 0.5.4.0.11 freigegeben 15.01.21
 ---
 - autodelete storno wenn gesehen
