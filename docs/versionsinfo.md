@@ -1,9 +1,10 @@
-### Version 0.5.4.0.10 freigegeben ...
+### Version 0.5.4.0.10 freigegeben 15.01.21
 ---
 - Registrierung: Telnr bei Abruf Bestätigungscode vorbelegt
 - Telnr-Änderung: Update Telnr in offenen Requests
 - Gerätewechsel: Update Token für Notifications in offenen Requests
 - Kontakte: Sortierung
+- Abfrage "Original löschen" Icon "nicht löschen" geändert
 
 ***
 ### Version 0.5.4.0.8 freigegeben 21.12.20
