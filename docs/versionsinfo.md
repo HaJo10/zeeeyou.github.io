@@ -1,3 +1,12 @@
+### Version 0.5.4.1 freigegeben 17.01.21
+---
+- Icon für DELETE einheitlich
+- Kontaktliste
+- - warten bis Tel ausgelesen (immer Anzeige Telnr bei > 300 Kontakten)
+- Kontakte / Requests
+- - abgedeckt wenn KEINE Telnr vorhanden. Z.B. wenn Telnr von anderem zeeeyou-User in Besitz genommen wird
+
+***
 ### Version 0.5.4.0.12 freigegeben 15.01.21
 ---
 - Neuer Termin: iOS 14 wieder alte Datum-/Uhrzeit-Eingabe
