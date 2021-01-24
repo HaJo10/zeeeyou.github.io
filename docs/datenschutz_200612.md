@@ -39,7 +39,7 @@ Die App ist so konzipiert, dass so wenig personenbezogene Daten wie möglich ver
 
 >> mit der Telefonnummer wird der Name zu einem **zeeeyou**-Kontakt aus den Telefonkontakten des Nutzers (Empfänger) ausgelesen
 
-'''
+```plantuml
 @startuml 
 hide footbox
 skinparam style strictuml
@@ -66,7 +66,7 @@ user -> auth: pin
 note right : pin ok -> account complete
 note right of user : you are registered and logged in
 @enduml
-'''
+```
 
 ### *Geräte-Id + Geräte-Name*
 > werden benutzt um festzustellen und anzuzeigen wenn der Nutzer sich auf einem anderen Gerät angemeldet hat
