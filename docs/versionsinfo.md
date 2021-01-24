@@ -1,3 +1,10 @@
+### Version 0.5.4.1.1 freigegeben 24.01.21
+
+---
+
+- autodelete korrigiert (hat generell bei gelesen gelöscht)
+
+---
 ### Version 0.5.4.1 freigegeben 17.01.21
 
 ---
