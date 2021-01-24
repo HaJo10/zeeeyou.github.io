@@ -48,7 +48,7 @@ Die App ist so konzipiert, dass so wenig personenbezogene Daten wie möglich ver
 
 >> Hinweis für empfangenen Termin
 
-![Register](c:\users\hans-\OneDrive\Pflichtangaben\out\test\Register SignUp.svg)
+![pict](./out/test/RegisterSignUp.png)
 
 Die von der App verarbeiteten Daten lassen sich den folgenden Kategorien zuordnen:  
 
