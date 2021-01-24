@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="910px" preserveAspectRatio="none" style="width:576px;height:910px;background:#FFCC00;" version="1.1" viewBox="0 0 576 910" width="576px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="36" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="284" x="149" y="61.3711">Register/SignUp</text><line style="stroke:#A80036;stroke-width:2.0;" x1="44" x2="44" y1="210.5" y2="363.9063"/><line style="stroke:#A80036;stroke-width:2.0;stroke-dasharray:1.0,4.0;" x1="44" x2="44" y1="363.9063" y2="419.9063"/><line style="stroke:#A80036;stroke-width:2.0;" x1="44" x2="44" y1="419.9063" y2="541.3125"/><line style="stroke:#A80036;stroke-width:2.0;stroke-dasharray:1.0,4.0;" x1="44" x2="44" y1="541.3125" y2="597.3125"/><line style="stroke:#A80036;stroke-width:2.0;" x1="44" x2="44" y1="597.3125" y2="896.125"/><line style="stroke:#A80036;stroke-width:2.0;" x1="193" x2="193" y1="210.5" y2="363.9063"/><line style="stroke:#A80036;stroke-width:2.0;stroke-dasharray:1.0,4.0;" x1="193" x2="193" y1="363.9063" y2="419.9063"/><line style="stroke:#A80036;stroke-width:2.0;" x1="193" x2="193" y1="419.9063" y2="541.3125"/><line style="stroke:#A80036;stroke-width:2.0;stroke-dasharray:1.0,4.0;" x1="193" x2="193" y1="541.3125" y2="597.3125"/><line style="stroke:#A80036;stroke-width:2.0;" x1="193" x2="193" y1="597.3125" y2="896.125"/><text fill="#000000" font-family="sans-serif" font-size="28" lengthAdjust="spacingAndGlyphs" textLength="56" x="10" y="204.3477">user</text><ellipse cx="44" cy="116.2813" fill="#FEFECE" rx="9" ry="9" style="stroke:#A80036;stroke-width:4.0;"/><path d="M19,129.2813 L19,139.2813 L38,139.2813 L38,143.796 L19,162.796 L27.4853,171.2813 L44,154.7665 L60.5147,171.2813 L69,162.796 L50,143.796 L50,139.2813 L69,139.2813 L69,129.2813 L19,129.2813 " fill="#FEFECE" style="stroke:#A80036;stroke-width:4.0;"/><text fill="#000000" font-family="sans-serif" font-size="28" lengthAdjust="spacingAndGlyphs" textLength="106" x="135" y="204.3477">zeeeyou</text><path d="M158,103.2813 C158,83.2813 194,83.2813 194,83.2813 C194,83.2813 230,83.2813 230,103.2813 L230,155.2813 C230,175.2813 194,175.2813 194,175.2813 C194,175.2813 158,175.2813 158,155.2813 L158,103.2813 " fill="#FEFECE" style="stroke:#000000;stroke-width:3.0;"/><path d="M158,103.2813 C158,123.2813 194,123.2813 194,123.2813 C194,123.2813 230,123.2813 230,103.2813 " fill="none" style="stroke:#000000;stroke-width:3.0;"/><polygon fill="#A80036" points="170,267.2031,190,275.2031,170,283.2031" style="stroke:#A80036;stroke-width:2.0;"/><line style="stroke:#A80036;stroke-width:2.0;" x1="44" x2="182" y1="275.2031" y2="275.2031"/><text fill="#000000" font-family="sans-serif" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="62" x="88" y="265.4902">email</text><path d="M54,301.2031 L54,353.2031 L454,353.2031 L454,321.2031 L434,301.2031 L54,301.2031 " fill="#FBFB77" style="stroke:#A80036;stroke-width:2.0;"/><path d="M434,301.2031 L434,321.2031 L454,321.2031 L434,301.2031 " fill="#FBFB77" style="stroke:#A80036;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="358" x="66" y="338.1934">check account does NOT exist</text><polygon fill="#A80036" points="66,456.6094,46,464.6094,66,472.6094" style="stroke:#A80036;stroke-width:2.0;"/><line style="stroke:#A80036;stroke-width:2.0;stroke-dasharray:2.0,2.0;" x1="54" x2="192" y1="464.6094" y2="464.6094"/><text fill="#000000" font-family="sans-serif" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="40" x="99" y="454.8965">link</text><polygon fill="#A80036" points="170,517.3125,190,525.3125,170,533.3125" style="stroke:#A80036;stroke-width:2.0;"/><line style="stroke:#A80036;stroke-width:2.0;" x1="44" x2="182" y1="525.3125" y2="525.3125"/><text fill="#000000" font-family="sans-serif" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="102" x="68" y="515.5996">phoneNo</text><path d="M54,607.3125 L54,659.3125 L400,659.3125 L400,627.3125 L380,607.3125 L54,607.3125 " fill="#FBFB77" style="stroke:#A80036;stroke-width:2.0;"/><path d="M380,607.3125 L380,627.3125 L400,627.3125 L380,607.3125 " fill="#FBFB77" style="stroke:#A80036;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="304" x="66" y="644.3027">check phoneNo NOT used</text><polygon fill="#A80036" points="66,706.7188,46,714.7188,66,722.7188" style="stroke:#A80036;stroke-width:2.0;"/><line style="stroke:#A80036;stroke-width:2.0;stroke-dasharray:2.0,2.0;" x1="54" x2="192" y1="714.7188" y2="714.7188"/><text fill="#000000" font-family="sans-serif" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="34" x="102" y="705.0059">pin</text><polygon fill="#A80036" points="170,773.4219,190,781.4219,170,789.4219" style="stroke:#A80036;stroke-width:2.0;"/><line style="stroke:#A80036;stroke-width:2.0;" x1="44" x2="182" y1="781.4219" y2="781.4219"/><text fill="#000000" font-family="sans-serif" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="34" x="102" y="771.709">pin</text><path d="M204,740.7188 L204,792.7188 L562,792.7188 L562,760.7188 L542,740.7188 L204,740.7188 " fill="#FBFB77" style="stroke:#A80036;stroke-width:2.0;"/><path d="M542,740.7188 L542,760.7188 L562,760.7188 L542,740.7188 " fill="#FBFB77" style="stroke:#A80036;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="316" x="216" y="777.709">pin ok -&gt; account complete</text><path d="M54,813.4219 L54,865.4219 L466,865.4219 L466,833.4219 L446,813.4219 L54,813.4219 " fill="#FBFB77" style="stroke:#A80036;stroke-width:2.0;"/><path d="M446,813.4219 L446,833.4219 L466,833.4219 L446,813.4219 " fill="#FBFB77" style="stroke:#A80036;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="26" lengthAdjust="spacingAndGlyphs" textLength="370" x="66" y="850.4121">you are registered and logged in</text><!--MD5=[4be1703712e547dc99f33bb20a3efc6a]
+@startuml 
+hide footbox
+skinparam style strictuml
+skinparam Handwritten false
+skinparam BackgroundColor #ffcc00
+skinparam ParticipantBorderColor #e63d00
+skinparam SequenceMessageAlignment center
+skinparam actorStyle hollow
+
+title **Register/SignUp**
+
+scale 2
+actor user as user 
+database zeeeyou as auth 
+user -> auth: email
+note right of user : check account does NOT exist
+...
+user <- - auth: link
+user -> auth: phoneNo
+...
+note right of user : check phoneNo NOT used
+user <- - auth: pin
+user -> auth: pin
+note right : pin ok -> account complete
+note right of user : you are registered and logged in
+@enduml
+
+PlantUML version 1.2020.22(Sun Dec 06 10:36:27 CET 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: de
+Country: DE
+--></g></svg>
