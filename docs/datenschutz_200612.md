@@ -48,7 +48,8 @@ Die App ist so konzipiert, dass so wenig personenbezogene Daten wie möglich ver
 
 >> Hinweis für empfangenen Termin
 
-![pict](./RegisterSignUp.svg)
+![pict1](./Register-SignUp.svg)
+![pict2](./Register-SignUp.png)
 
 Die von der App verarbeiteten Daten lassen sich den folgenden Kategorien zuordnen:  
 

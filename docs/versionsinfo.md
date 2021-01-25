@@ -1,3 +1,11 @@
+### Version 0.5.4.1.2 freigegeben 25.01.21
+
+---
+
+- Kontakt löschen korrigiert (Abbruch)
+- Kontaktanfrage annehmen: Namen in Terminliste bleiben
+
+---
 ### Version 0.5.4.1.1 freigegeben 24.01.21
 
 ---
