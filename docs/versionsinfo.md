@@ -1,3 +1,17 @@
+### Version 0.5.4.1.3 freigegeben 30.01.21
+
+---
+
+- bei Kontaktanfrage von Gastgerät PushToken des Hauptgerätes mitgeben
+- Änderung NotifTime von Gastgerät
+  - Anzeige NotifTime auf Gastgerät
+  - Anzeige NotifTime auf Hauptgerät
+  - Notification auf Hauptgerät (nach öffnen zeeeyou!)
+- Neuer Termin
+  - Empfänger löschen bei NEU
+  - Button Delete immer aktiv: delete / reset
+
+---
 ### Version 0.5.4.1.2 freigegeben 25.01.21
 
 ---
