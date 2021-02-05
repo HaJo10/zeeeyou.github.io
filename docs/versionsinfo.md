@@ -1,3 +1,12 @@
+### Version 0.5.4.1.4 freigegeben 05.02.21
+
+---
+
+- Profil: Gerätewechsel nicht im Emulator, nur auf Device
+- Gruppe löschen Rücksprung in Menü, nach neu Kontakte/Gruppen Anzeige aktuell
+- Termin ändern: 'Original löschen' nur 2 Icons: Haken und Kreuz
+
+---
 ### Version 0.5.4.1.3 freigegeben 30.01.21
 
 ---
