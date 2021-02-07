@@ -1,3 +1,10 @@
+### Version 0.5.4.1.5 freigegeben 07.02.21
+
+---
+
+- Versuch Timeout bei Login abzufangen (Meldung)
+
+---
 ### Version 0.5.4.1.4 freigegeben 05.02.21
 
 ---
