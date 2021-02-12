@@ -1,180 +1,104 @@
-## Datenschutzerklärung **zeeeyou** 
+## Datenschutzerklärung **zeeeyou**
+In dieser Datenschutzerklärung erfahren Sie, welche Daten bei der Nutzung der **zeeeyou-App** erhoben werden, wie sie verwendet werden und welche Datenschutzrechte Sie haben. Damit diese Datenschutzerklärung für alle Nutzer verständlich ist, bemühen wir uns um eine einfache und möglichst untechnische Darstellung.
 
-In dieser Datenschutzerklärung erfahren Sie, welche Daten bei der Nutzung der **zeeeyou-App** erhoben werden, wie sie verwendet werden und welche Datenschutzrechte Sie haben.Damit diese Datenschutzerklärung für alle Nutzer verständlich ist, bemühen wir uns um eine einfache und möglichst untechnische Darstellung.  
+Der Schutz personenbezogener Daten sowie der Privatsphäre von Nutzern der **zeeeyou-App** ist ein besonderes Anliegen der 
 
-### 1 Wer stellt Ihnen diese App zur Verfügung?  
+>**zeeeyou GbR**
 
-Der Anbieter der **zeeeyou-App** (im Folgenden die „App“) ist **zeeeyou** GbR, Vor Eichen 11, 72406 Bisingen (im Folgenden „**zeeeyou**“). **zeeeyou** ist auch der datenschutzrechtlich Verantwortliche für die Verarbeitung von personenbezogenen Daten der App-Nutzer.  
+>**Vor Eichen 11**
 
-Den Datenschutzbeauftragten von **zeeeyou** erreichen Sie unter der oben genannten Anschrift (zu Händen „Behördlicher Datenschutzbeauftragter“) und per E-Mail an: datenschutz@**zeeeyou**.de).  
+>**72406 Bisingen**
 
-### 2 Ist die Nutzung der App freiwillig?  
+kurz **zeeeyou**. 
 
-Die Benutzung der App basiert ausschließlich auf Freiwilligkeit. Es ist daher allein Ihre Entscheidung, ob und wie Sie die App nutzen.Auch wenn die Installation und die Benutzung der App freiwillig sind, müssen Sie nach dem erstmaligen Aufruf der App gegenüber **zeeeyou** durch Antippen des Buttons „Risiko- Ermittlung aktivieren“ zustimmen, dass die App im Rahmen der Risiko-Ermittlung Ihre personenbezogenen Daten verarbeiten darf. Falls die App dabei ein Infektionsrisiko für Sie ermittelt, stellen Ihre Daten auch Gesundheitsdaten dar. Ihre Zustimmung ist erforderlich, da andernfalls die App nicht auf die Kontaktaufzeichnungs-Funktion Ihres Smartphones zugreifen kann. Sie können die Risiko-Ermittlung jedoch jederzeit über den Schieberegler innerhalb der App deaktivieren. In diesem Fall stehen Ihnen nicht alle Funktionen der App zur Verfügung. Gesonderte Einwilligungen sind darüber hinaus für die Datenverarbeitung der folgenden Funktionen erforderlich:  
+Aus diesem Grund setzen wir uns nach bestem Wissen und Gewissen für den Schutz Ihrer Privatsphäre und Ihr Recht auf Datenschutz ein, indem wir die maßgeblichen datenschutzrechtlichen Vorschriften beachten. Die Erhebung, Speicherung und Verarbeitung personenbezogener Daten über die **zeeeyou-App** erfolgt nach Maßgabe der nachfolgenden Datenschutzerklärung und unter Beachtung des Grundsatzes der Datensparsamkeit und der zweckgebundenen Datenverwendung.
 
-Test registrieren (siehe Ziffer 6 b.)  
+>Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist die:
 
-Testergebnis teilen (siehe Ziffer 6 c.) Die Datenverarbeitung im Rahmen dieser Funktionen wird in den folgenden Abschnitten näher beschrieben.  
+zeeeyou GbR
 
-### 3 Auf welcher Rechtsgrundlage werden Ihre Datenverarbeitet?  
+Vor Eichen 11
 
-**zeeeyou** verarbeitet Ihre personenbezogenen Daten grundsätzlich nur auf Grundlage einer von Ihnen erteilten Einwilligung nach Artikel 6 Absatz 1 Satz 1 Buchstabe a und Artikel 9 Absatz 2 Buchstabe a der Datenschutzgrundverordnung (DSGVO). Sie können eine von Ihnen  
+72406 Bisingen
 
-erteilte Einwilligung jederzeit widerrufen. Weitere Informationen zu Ihrem Widerrufsrecht und Hinweise, wie Sie dieses ausüben können, finden Sie unter Ziffer 11.  
+Tel.: +49 7476 449 0176
 
-### 4 An wen richtet sich dieApp?  
+E-mail: datenschutz@zeeeyou.de
+
+Internet:
+
+### 1 Auf welcher Rechtsgrundlage werden Ihre Daten verarbeitet?  
+
+**zeeeyou** verarbeitet Ihre personenbezogenen Daten grundsätzlich nur auf Grundlage einer von Ihnen erteilten Einwilligung nach Artikel 6 Absatz 1 Satz 1 Buchstabe a und Artikel 9 Absatz 2 Buchstabe a der Datenschutzgrundverordnung (DSGVO). Sie können eine von Ihnen erteilte Einwilligung jederzeit widerrufen. Weitere Informationen zu Ihrem Widerrufsrecht und Hinweise, wie Sie dieses ausüben können, finden Sie unter Ziffer 5.  
+
+### 2 An wen richtet sich die App?  
 
 Die App richtet sich an Personen, die sich in Deutschland aufhalten und mindestens 16 Jahre alt sind.  
 
-### 5 Welche personenbezogenen Daten werden verarbeitet?  
+### 3 Welche personenbezogenen Daten werden verarbeitet?  
 
-Die App ist so konzipiert, dass so wenig personenbezogene Daten wie möglich verarbeitet werden. Das bedeutet zum Beispiel, dass die App keine Daten erfasst, die es dem **zeeeyou** oder anderen Nutzern ermöglichen, auf Ihre Identität, Ihren Gesundheitsstatus oder Ihren Standort zu schließen. Zudem verzichtet die App bewusst auf jegliche Erfassung oder Analyse Ihres Nutzungsverhaltens durch Tracking-Tools.  
+Die App ist so konzipiert, dass so wenig personenbezogene Daten wie möglich verarbeitet werden. Das bedeutet zum Beispiel, dass die App keine Daten erfasst, die es **zeeeyou** oder anderen Nutzern ermöglichen, auf Ihre Identität oder Ihren Standort zu schließen. Zudem verzichtet die App bewusst auf jegliche Erfassung oder Analyse Ihres Nutzungsverhaltens durch Tracking-Tools.  
 
 ### *Email-Adresse + Telefonnummer* (mobil)
-> Email-Adresse + Telefonnummer werden zur Registrierung verwendet
->> es gilt
->> ein Benutzerkonto pro Email-Adresse
+> Email-Adresse + Telefonnummer werden zur Registrierung verwendet. Dabei wird ein Benutzerkonto pro Email-Adresse angelegt, 
 
 >> eine Telefonnummer kann nur einer Email-Adresse zugeordnet werden
 
 >> mit der Telefonnummer wird der Name zu einem **zeeeyou**-Kontakt aus den Telefonkontakten des Nutzers (Empfänger) ausgelesen
 
+
 ### *Geräte-Id + Geräte-Name*
 > werden benutzt um festzustellen und anzuzeigen wenn der Nutzer sich auf einem anderen Gerät angemeldet hat
 
 ### *PushToken*
-> wird bei der Installation der App von dieser gebildet um eine Geräteadresse für die Versendung von PushNotifications zu haben.
+> wird bei der Installation der **zeeeyou-App** von dieser gebildet, um eine Geräteadresse für die Versendung von PushNotifications zu bilden. 
 >> Hinweis für empfangene Kontaktanfrage
 
 >> Hinweis für empfangenen Termin
 
-![pict1](./Register-SignUp.svg)
-![pict2](./Register-SignUp.png)
+### 4 Weitergabe von Daten
+Eine Übermittlung Ihrer personenbezogenen Daten an Dritte zu anderen als den im folgenden aufgeführten Zwecken findet nicht statt.
 
-Die von der App verarbeiteten Daten lassen sich den folgenden Kategorien zuordnen:  
+Wir geben Ihre personenbezogenen Daten nur an Dritte weiter:
 
-a. Zugriffsdaten  
+>wenn Sie Ihre nach Art. 6 Abs. 1 S. 1 lit. a DSGVO ausdrückliche Einwilligung dazu erteilt haben,
 
-Zugriffsdaten fallen an, wenn Sie die folgenden Funktionen nutzen bzw. aktivieren:  
- 
+>wenn die Weitergabe nach Art. 6 Abs. 1 S. 1 lit. f DSGVO zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist und kein Grund zur Annahme besteht, dass Sie ein überwiegendes schutzwürdiges Interesse an der Nichtweitergabe Ihrer Daten haben,
 
-Meldung über erfolgreichen Abruf  
+>für den Fall, dass für die Weitergabe nach Art. 6 Abs. 1 S. 1 lit. c DSGVO eine gesetzliche Verpflichtung besteht, sowie
+wenn dies gesetzlich zulässig und nach Art. 6 Abs. 1 S. 1 lit. b DSGVO für die Abwicklung von Vertragsverhältnissen mit Ihnen erforderlich ist oder nach Art. 6 Abs. 1 lit f DSGVO ein berechtigtes Interesse unsererseits besteht und und kein Grund zur Annahme besteht, dass Sie ein überwiegendes schutzwürdiges Interesse an der Nichtweitergabe der Daten haben.
 
-Diese Zugriffsdaten werden nur zur Sicherung und Aufrechterhaltung der technischen Infrastruktur verarbeitet. Sie werden dabei nicht als Nutzer der App persönlich identifiziert und es kann kein Nutzungsprofil erstellt werden. Eine Speicherung der IP-Adresse über das Ende des Nutzungsvorgangs hinaus erfolgt nicht. b. Begegnungsdaten Wenn Sie auf Ihrem Smartphone die betriebssystemseitige Funktion zur Aufzeichnung von Kontakten zu anderen Nutzern aktivieren, versendet Ihr Smartphone per Bluetooth Low Energy kontinuierlich zufallsgenerierte Kennnummern, auch als Zufallscodes zu bezeichnet (im Folgenden: „Zufalls-IDs“), die von anderen Smartphones in Ihrer Nähe mit ebenfalls aktivierter Kontaktaufzeichnung empfangen werden können. Umgekehrt empfängt Ihr Smartphone auch die Zufalls-IDs der anderen Smartphones. Zu den von anderen  
+>Die Weitergabe von Daten erfolgt insbesondere im Rahmen unserer Zusammenarbeit mit externen Dienstleistern, mit denen wir im Rahmen der Erbringung unserer Dienstleistungen zusammenarbeiten.
 
-Smartphones empfangenen Zufalls-IDs werden von der Kontaktaufzeichnungs-Funktion Ihres Smartphones zusätzlich folgende Begegnungsdaten aufgezeichnet und gespeichert:  
+### 5 Betroffenenrechte
+Sie haben das Recht:
 
-Datum und Zeitpunkt des Kontakts  
+>gemäß Art. 7 Abs. 3 DSGVO Ihre einmal erteilte Einwilligung jederzeit gegenüber uns zu widerrufen. Dies hat zur Folge, dass wir die Datenverarbeitung, die auf dieser Einwilligung beruhte, für die Zukunft nicht mehr fortführen dürfen;
 
-Dauer des Kontakts  
+>gemäß Art. 15 DSGVO Auskunft über Ihre von uns verarbeiteten personenbezogenen Daten zu verlangen. Insbesondere können Sie Auskunft über die Verarbeitungszwecke, die Kategorie der personenbezogenen Daten, die Kategorien von Empfängern, gegenüber denen Ihre Daten offengelegt wurden oder werden, die geplante Speicherdauer, das Bestehen eines Rechts auf Berichtigung, Löschung, Einschränkung der Verarbeitung oder Widerspruch, das Bestehen eines Beschwerderechts, die Herkunft ihrer Daten, sofern diese nicht bei uns erhoben wurden, sowie über das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling und ggf. aussagekräftigen Informationen zu deren Einzelheiten verlangen;
 
-Bluetooth-Signalstärke des Kontakts  
+>gemäß Art. 16 DSGVO unverzüglich die Berichtigung unrichtiger oder Vervollständigung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen;
 
-Verschlüsselte Metadaten (Protokollversion und Sendestärke). Die eigenen und von anderen Smartphones empfangenen Zufalls-IDs und die weiteren Begegnungsdaten (Datum und Zeitpunkt des Kontakts, Dauer des Kontakts, Signalstärke des Kontakts und verschlüsselte Metadaten) werden von Ihrem Smartphone in einem Kontaktprotokoll der Kontaktaufzeichnungs-Funktion erfasst und dort zurzeit für 14 Tage gespeichert. Die Kontaktaufzeichnungs-Funktion heißt bei Android-Smartphones "Benachrichtigungen zu möglicher Begegnung mit Infizierten" und bei iPhones „COVID-19-Kontaktprotokoll“. Wir weisen Sie darauf hin, dass diese Kontaktaufzeichnungs-Funktionen kein Bestandteil der App, sondern ein integraler Bestandteil des Betriebssystems Ihres Smartphones sind. Die Kontaktaufzeichnungs-Funktion wird Ihnen daher von Apple (iPhones) bzw. Google (Android- Smartphones) bereitgestellt und unterliegt dementsprechend den Datenschutzbestimmungen dieser Unternehmen. Die betriebssystemseitige Datenverarbeitung im Rahmen der Kontaktaufzeichnungs-Funktion liegt außerhalb des Einflussbereichs des **zeeeyou**. Weitere Informationen zu der Kontaktaufzeichnungs-Funktion von Android-Smartphones finden Sie unter: https://support.google.com/android/answer/9888358?hl=de.Weitere Informationen zu der Kontaktaufzeichnungs-Funktion von Apple finden Sie in den Einstellungen Ihres iPhones unter "Datenschutz“ > „Health" > „COVID-19-Kontaktprotokoll“. Bitte beachten Sie: Die Kontaktaufzeichnungs-Funktion steht Ihnen nur zur Verfügung, wenn auf Ihrem iPhone das Betriebssystem iOS ab Version 13.5 installiert ist. Die vom Smartphone erzeugten und gespeicherten Begegnungsdaten werden von der App nur verarbeitet, wenn die Risiko-Ermittlung aktiviert ist.  
+>gemäß Art. 17 DSGVO die Löschung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen, soweit nicht die Verarbeitung zur Ausübung des Rechts auf freie Meinungsäußerung und Information, zur Erfüllung einer rechtlichen Verpflichtung, aus Gründen des öffentlichen Interesses oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist;
 
-a. Gesundheitsdaten Gesundheitsdaten sind alle Daten, die Informationen zum Gesundheitszustand einer bestimmten Person enthalten. Dazu gehören nicht nur Angaben zu früheren und aktuellen Krankheiten, sondern auch zu Krankheitsrisiken einer Person (z. B. das Risiko, dass eine Person sich mit dem Corona-Virus infiziert hat). In den folgenden Fällen handelt es sich um eine Verarbeitung von Gesundheitsdaten:  
+>gemäß Art. 18 DSGVO die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen, soweit die Richtigkeit der Daten von Ihnen bestritten wird, die Verarbeitung unrechtmäßig ist, Sie aber deren Löschung ablehnen und wir die Daten nicht mehr benötigen, Sie jedoch diese zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen oder Sie gemäß Art. 21 DSGVO Widerspruch gegen die Verarbeitung eingelegt haben;
 
-Wenn die Risiko-Ermittlung erkennt, dass Sie möglicherweise Kontakt zu einer Person hatten, die sich mit dem Corona-Virus infiziert hat.  
+>gemäß Art. 20 DSGVO Ihre personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesebaren Format zu erhalten oder die Übermittlung an einen anderen Verantwortlichen zu verlangen; 
+und gemäß Art. 77 DSGVO sich bei einer Aufsichtsbehörde zu beschweren. In der Regel können Sie sich hierfür an die Aufsichtsbehörde Ihres üblichen Aufenthaltsortes oder Arbeitsplatzes oder unseres Sitzes wenden.
 
-Wenn Sie einen Test registrieren.  
+**Widerspruchsrecht**
 
-Wenn Sie ein positives Testergebnis teilen.  
+Sofern Ihre personenbezogenen Daten auf Grundlage von berechtigten Interessen gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO verarbeitet werden, haben Sie das Recht, gemäß Art. 21 DSGVO Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten einzulegen, soweit dafür Gründe vorliegen, die sich aus Ihrer besonderen Situation ergeben oder sich der Widerspruch gegen Direktwerbung richtet. Im letzteren Fall haben Sie ein generelles Widerspruchsrecht, das ohne Angabe einer besonderen Situation von uns umgesetzt wird.
 
-### 6 Funktionen der App  
+**Möchten Sie von Ihrem Widerrufs- oder Widerspruchsrecht Gebrauch machen, genügt es, in der zeeeyou-App die Funktion "Benutzerkonto löschen" auszuführen. Alle Daten werden damit unwiderruflich gelöscht.**
 
-a. Risiko-Ermittlung  
+### 6 Datensicherheit
 
-Die Risiko-Ermittlung ist die Kernfunktion der App. Sie dient dazu, mögliche Kontakte zu mit dem Corona-Virus infizierten anderen Nutzern der App nachzuverfolgen, das infolge für Sie bestehende Infektionsrisiko zu bewerten und Ihnen, basierend auf dem für Sie ermittelten Risikowert, Verhaltens- und Gesundheitshinweise bereitzustellen.  
- 
+Wir verwenden zur Kommunikation das verbreitete SSL-Verfahren (Secure Socket Layer) in Verbindung mit der jeweils höchsten Verschlüsselungsstufe, die von Ihrem Gerät  unterstützt wird. In der Regel handelt es sich dabei um eine 256 Bit Verschlüsselung.
 
-b. Test registrieren  
+Falls Ihr Browser keine 256-Bit Verschlüsselung unterstützt, greifen wir stattdessen auf eine 128-Bit Verschlüsselung (mind. TLS1.0) zurück. Als allerletzte Möglichkeit kann eine Verschlüsselung im DES-Format Modus CBC3 erfolgen. Dies ist eine 168 Bit, bestehend aus 3 x 56 Bit Schlüsseln. Diese Verschlüsselung ist sicher, führt aber ggf. zu längeren Ladezeiten. Die aktuelle Serverkonfiguration (RC4-Verfahren) entspricht dem aktuellen technischen Stand. Ob eine einzelne Seite unseres Internetauftrittes verschlüsselt übertragen wird, erkennen Sie an der geschlossenen Darstellung des Schüssel- beziehungsweise Schloss-Symbols in der unteren Statusleiste Ihres Browsers.
 
-Wenn Sie auf eine Infektion mit dem Corona-Virus getestet wurden, können Sie den Test in der App registrieren, indem Sie den QR-Code, den Sie von Ihrem Arzt bzw. der Testeinrichtung erhalten haben, in der App einscannen. Die App informiert Sie dann, sobald das Testergebnis des Labors vorliegt.  
-    
+Wir bedienen uns im Übrigen geeigneter technischer und organisatorischer Sicherheitsmaßnahmen, um Ihre Daten gegen zufällige oder vorsätzliche Manipulationen, teilweisen oder vollständigen Verlust, Zerstörung oder gegen den unbefugten Zugriff Dritter zu schützen. Unsere Sicherheitsmaßnahmen werden entsprechend der technologischen Entwicklung fortlaufend verbessert.
 
-
-d. Informatorische Nutzung der App  
-
-Soweit Sie die App nur informatorisch nutzen, also keine der oben genannten Funktionen der App verwenden und keine Daten eingeben, findet die Verarbeitung ausschließlich lokal auf Ihrem Smartphone statt und es fallen keine personenbezogenen Daten an. In der App verlinkte Webseiten z.B.: diese *Datenschutzerklärung* oder die *Nutzungsbedingungen* werden im Standard-Browser Ihres Smartphones geöffnet und angezeigt. Welche Daten dabei verarbeitet werden hängt von dem genutzten Browser, dessen Konfiguration sowie der Datenverarbeitungspraxis der aufgerufenen Webseite ab.  
-
-### 7 Welche Berechtigungen und Funktionen benötigt dieApp?  
-
-Die App benötigt Zugriff auf verschiedene Funktionen und Schnittstellen Ihres Smartphones. Dazu ist es erforderlich, dass Sie der App bestimmte Berechtigungen erteilen. Die Berechtigungen sind von den verschiedenen Herstellern unterschiedlich programmiert. So können z. B. Einzelberechtigungen zu Berechtigungskategorien zusammengefasst sein, wobei Sie der Berechtigungskategorie nur insgesamt zustimmen können. Bitte beachten Sie, dass Sie im Falle der Ablehnung eines Zugriffs durch die App keine oder nur wenige Funktionen der App nutzen können.  
-
-Berechtigungen im Einzelnen:
-
-* Kontakte
-  * auslesen der Namen zu genehmigten **zeeeyou**-Kontakten
-* Nachrichten
-  * wird teils automatisch erteilt
-  * Ton muss/kann in den Einstellungen zur App detailliert eingestellt werden
-  * Benachrichtigung bei Eintreffen von Terminen
-  * Benachrichtigung bei Fälligkeit von Terminen
-
-
-a. Technische Voraussetzungen (alle Smartphones)  
-
-• Internet  
-
-Die App benötigt für die Funktionen Risiko-Ermittlung, Testergebnisse erhalten und Testergebnis übermitteln eine Internetverbindung, um mit den Serversystemen der App kommunizieren zu können.     
-
-b. Android-Smartphones Wenn Sie ein Android-Gerät verwenden, müssen außerdem folgende Systemfunktionen aktiviert sein:  
-
-Benachrichtigungen zu möglicher Begegnung mit COVID-19-Infizierten Die Risiko-Ermittlung benötigt diese Funktion, da andernfalls kein Kontaktprotokoll mit den Zufalls-IDs Ihrer Kontakte zur Verfügung steht. Die Funktion muss innerhalb der App aktiviert werden, damit die App auf das Kontaktprotokoll zugreifen darf.    
-
-c. iPhones(Apple iOS)  
-
-Wenn Sie ein iPhone verwenden, müssen folgende Systemfunktionen aktiviert sein:  
-  
-Mitteilungen
-
-### 8 Wann werden die Daten gelöscht?  
-
-Alle in der App gespeicherten Daten werden gelöscht, sobald sie für die Funktionen der App nicht mehr benötigt werden:  
-
-a. Risiko-Ermittlung  
-
-Die Liste der Zufalls-IDs von Nutzern, die ein positives Testergebnis geteilt haben, wird in der App unverzüglich und im Übrigen im Kontaktprotokoll Ihres Smartphones nach 14 Tagen automatisch gelöscht.  
-
-Auf die Löschung der Begegnungsdaten im Kontaktprotokoll Ihres Smartphones (einschließlich Ihrer eigenen Zufalls-IDs) und die Begegnungsdaten auf anderen Smartphones hat das **zeeeyou** keinen Einfluss, da diese Funktion von Apple bzw. Google bereitgestellt werden. Die Löschung richtet sich nach den Festlegungen von Apple bzw. Google. Zurzeit werden die Daten nach 14 Tagen automatisch gelöscht. Zudem können Sie im Rahmen der von Apple und Google bereitgestellten Funktionalitäten in den Systemeinstellungen Ihres Geräts gegebenenfalls eine manuelle Löschung anstoßen.  
-
-b. Test registrieren  
-
-Die gehashte Kennzahl wird auf dem Serversystem der App nach 21 Tagen gelöscht.  
-
-Die gehashte Kennzahl und das Testergebnis in der Testergebnis- Datenbank werden im Fall eines negativen Testergebnisses unmittelbar nach dem Abruf des Testergebnisses und im Fall eines positiven Testergebnissen unmittelbar nach dem Löschen der auf Serversystem gespeicherten Kopie der TAN gelöscht (s.u.).  
-
-Das Token, das auf dem Serversystem gespeichert ist, wird nach 21 Tagen gelöscht.  
-
-Das Token, das in der App gespeichert ist, wird nach Löschung der App vom Smartphone oder nach Ausführung der Funktion „Testergebnis teilen“ gelöscht. c. Testergebnis teilen  ...
-  
-
-### 9 An wen werden Ihre Daten weitergegeben?  
-
-Wenn Sie ein Testergebnis teilen, um andere Nutzer zu warnen, werden Ihre Zufalls-IDs der letzten 14 Tage an die Apps der anderen Nutzer weitergegeben.Mit dem Betrieb und der Wartung eines Teils der technischen Infrastruktur der App (z. B. Serversysteme, Hotline) hat das **zeeeyou** die T-Systems International GmbH und die SAP  
-
-Deutschland SE & Co. KG beauftragt, die insoweit als Auftragsverarbeiter des **zeeeyou** tätig werden (Artikel 28 DSGVO).Im Übrigen gibt das **zeeeyou** personenbezogene Daten, die im Zusammenhang mit der Nutzung der App erhoben werden, nur an Dritte weiter, soweit das **zeeeyou** rechtlich dazu verpflichtet ist oder die Weitergabe im Falle von Angriffen auf die technische Infrastruktur der App zur Rechts- oder Strafverfolgung erforderlich ist. Eine Weitergabe in anderen Fällen erfolgt grundsätzlich nicht.  
-
-### 10 Werden Daten in ein Drittland übermittelt?  
-
-Die bei der Nutzung der App anfallenden Daten werden ausschließlich auf Servern in Deutschland oder in einem anderem EU- oder EWR-Mitgliedsstaat verarbeitet.  
-
-### 11 Widerruf von Einwilligungen  
-
-Ihnen steht das Recht zu, die in der App erteilten Einwilligungen gegenüber dem **zeeeyou** jederzeit mit Wirkung für die Zukunft zu widerrufen. Die Rechtmäßigkeit der Verarbeitung bis zum Widerruf wird dadurch jedoch nicht berührt.Zum Widerruf Ihrer Einwilligung in die Risiko-Ermittlung können Sie die Funktion über den Schieberegler innerhalb der App deaktivieren oder die App löschen. Wenn Sie die Risiko- Ermittlung wieder nutzen möchten, können Sie den Schieberegler erneut aktivieren oder die App erneut installieren.Zum Widerruf Ihrer Einwilligung für die Funktion „Test registrieren“ können Sie die Testregistrierung in der App löschen. Das Token zum Abruf des Testergebnisses wird dann von Ihrem Gerät gelöscht. Weder das **zeeeyou** noch das Testlabor können die übermittelten Daten dann Ihrer App oder Ihrem Smartphone zuordnen. Wenn Sie einen weiteren Test registrieren möchten, werden Sie um eine neue Einwilligung gebeten.Zum Widerruf Ihrer Einwilligung für die Funktion „Testergebnis teilen“ müssen Sie die App löschen. Sämtliche Ihrer in der App gespeicherten Zufalls-IDs werden dann entfernt und können Ihrem Smartphone nicht mehr zugeordnet werden. Wenn Sie erneut ein Testergebnis melden möchten, können Sie in der App erneut installieren und eine neue Einwilligung erteilen. Alternativ können Sie Ihre eigenen Zufalls-IDs gegebenenfalls im Rahmen der Kontaktaufzeichnungs-Funktion in den Systemeinstellungen Ihres Smartphones löschen. Bitte beachten Sie, dass das **zeeeyou** keine Möglichkeit hat, um Ihre bereits übermittelten Zufalls-IDs unmittelbar aus den bereitgestellten Listen und von Smartphones anderer Nutzer zu löschen.  
-
-### 12 Ihre weiteren Datenschutzrechte  
-
-Soweit das **zeeeyou** personenbezogene Daten von Ihnen verarbeitet, stehen Ihnen außerdem folgende Datenschutzrechte zu:  
-
-die Rechte aus den Artikeln 15, 16, 17, 18, 20 und 21 DSGVO,  
-
-das Recht, den behördlichen Datenschutzbeauftragten des **zeeeyou** zu kontaktieren und Ihr Anliegen vorzubringen (Artikel 38 Abs. 4 DSGVO) und  
-
-das Recht, sich bei einer zuständigen Aufsichtsbehörde für den Datenschutz zu beschweren. Dazu können Sie sich entweder an die zuständige Aufsichtsbehörde an Ihrem Wohnort oder an die am Sitz des **zeeeyou** zuständige  
-
-Behörde wenden. Die zuständige Aufsichtsbehörde für das **zeeeyou** ist der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit, Graurheindorfer Str. 153, 53117 Bonn.  
-
-Es wird darauf hingewiesen, dass die vorgenannten Rechte vom **zeeeyou** nur erfüllt werden können, wenn die Daten, auf die sich die geltend gemachten Ansprüche beziehen, eindeutig Ihrer Person zugeordnet werden können. Dies wäre nur möglich, wenn das **zeeeyou** weitere personenbezogene Daten erhebt, die eine eindeutige Zuordnung der oben genannten Daten zu Ihrer Person oder Ihrem Smartphone erlaubt. Da dies für die Zwecke der App nicht erforderlich – und auch nicht gewollt – ist, ist das **zeeeyou** zu einer solchen zusätzlichen Datenerhebung nicht verpflichtet (Artikel 11 Abs. 2 DSGVO). Zudem würde dies dem erklärten Ziel zuwiderlaufen, die Datenverarbeitung im Rahmen der App so datensparsam wie möglich durchzuführen. Aus diesem Hintergrund werden die vorgenannten Datenschutzrechte aus den Artikeln 15, 16, 17, 18, 20 und 21 DSGVO in der Regel nicht unmittelbar und nur mit zusätzlichen Informationen zu Ihrer Person, die dem **zeeeyou** nicht vorliegen, erfüllt werden können.  
-
-Stand: 12.06.2020  
+### 7 Aktualität und Änderung dieser Datenschutzerklärung
+Diese Datenschutzerklärung ist aktuell gültig und hat den Stand April 2021. Durch die Weiterentwicklung der **zeeeyou-App** für zusätzliche Funktionen oder aufgrund geänderter gesetzlicher beziehungsweise behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern. Die jeweils aktuelle Datenschutzerklärung kann jederzeit in der **zeeeyou-App** unter **"Datenschutz"** von Ihnen abgerufen, im pdf-Format heruntergeladen und ausgedruckt werden.
