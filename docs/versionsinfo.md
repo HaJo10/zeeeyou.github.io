@@ -1,3 +1,15 @@
+### Version 0.5.4.1.6 freigegeben 07.02.21
+
+---
+
+- Kontakte/Gruppen  Gruppen  Neu/Kontakte/Gruppen
+  - Überschriften
+- Gruppe anlegen/ändern
+  - Haken statt Diskette als 'speichern'
+- Neu
+  - Suche in Kontakten/Gruppen raus, kollidiert mit umsortieren der markierten -> nochmal überdenken
+
+---
 ### Version 0.5.4.1.5 freigegeben 07.02.21
 
 ---
