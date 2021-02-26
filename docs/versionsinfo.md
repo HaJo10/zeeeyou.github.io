@@ -1,3 +1,16 @@
+### Version 0.5.4.1.7 freigegeben 26.02.21
+
+---
+- Telefonnummer ändern
+  - Fehler behoben wenn zeeeyou-Account mit 'neuer' Telnr besteht
+  - 'neue' Telnr frei
+    - update Kontakte
+    - update Requests
+  - 'neue' Telnr war vergeben zusätzlich
+    - update Kontakte 'Vorbesitzer'
+    - update Requests 'Vorbesitzer'
+
+---
 ### Version 0.5.4.1.6 freigegeben 07.02.21
 
 ---
